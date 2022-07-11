@@ -5,6 +5,7 @@ paginate: 5
 theme: 'PaperMod'
 
 params:
+  googleAnalytics: UA-128378050-1
   env: production
   title: Techdox Blog
   description: 'Cloud Consultant, Crypto Nerd'
