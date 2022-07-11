@@ -4,8 +4,10 @@ title: 'Techdox Blog'
 paginate: 5
 theme: 'PaperMod'
 googleAnalytics: "UA-128378050-1"
+disqusShortname: techdox-nz
 
 params:
+  comments: true
   googleAnalytics: "UA-128378050-1"
   env: production
   title: Techdox Blog
