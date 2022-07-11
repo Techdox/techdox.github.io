@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://techdox.nz'
 languageCode: 'en-us'
 title: 'Techdox Blog'
 paginate: 5
