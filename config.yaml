@@ -1,4 +1,4 @@
-baseURL: 'https://techdox.nz'
+baseURL: 'https://techdox.github.io'
 languageCode: 'en-us'
 title: 'Techdox Blog'
 paginate: 5
