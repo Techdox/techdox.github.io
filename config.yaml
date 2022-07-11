@@ -1,0 +1,95 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Techdox Blog'
+paginate: 5
+theme: 'PaperMod'
+
+params:
+  env: production
+  title: Techdox Blog
+  description: 'Cloud Consultant, Crypto Nerd'
+  keywords: [Blog, IT, Crypto]
+  author: Nick Wilkinson
+  DateFormat: "januart 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Home"
+    icon: /techdox-logo.jpeg
+    iconHeight: 35
+
+  homeInfoParams:
+    Title: "Nick Wilkinson"
+    Content: Cloud Consultant | Crypto Hodler
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/techydox"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/nick-l-wilkinson/"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
