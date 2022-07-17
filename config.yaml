@@ -14,7 +14,7 @@ params:
   description: 'Cloud Consultant, Crypto Nerd'
   keywords: [Blog, IT, Crypto]
   author: Nick Wilkinson
-  DateFormat: "januart 2, 2006"
+  #DateFormat: "januart 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
