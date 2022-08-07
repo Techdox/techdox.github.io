@@ -1,5 +1,5 @@
 ---
-title: "Decsecops"
+title: "DevSecOps"
 date: 2022-08-06T12:36:10+12:00
 draft: false
 description: "Security and DevOps, a must have relationship"
