@@ -85,6 +85,10 @@ menu:
       name: search
       url: /search/
       weight: 30
+    - identifier: buycoffee
+      name: buy me a coffee?
+      url: https://www.buymeacoffee.com/techdoxnz
+      weight: 30      
 
 pygmentsUseClasses: true
 markup:
