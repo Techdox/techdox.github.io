@@ -20,7 +20,7 @@ The first question I asked was;
 
 A model in Django is like a way to declaring data types (which chatGPT taught me) and ChatGPT then proceeded to give me the results I was after.
 
-![model]](https://i.imgur.com/7Kzt43K.png)
+![model](https://i.imgur.com/7Kzt43K.png)
 
 Once I had created this model in my project, I then asked the simple question, what’s next?
 
