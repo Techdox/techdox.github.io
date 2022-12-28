@@ -22,7 +22,8 @@ I am wanting to build a dashboard in Python Django to track american express tra
 
 A model in Django is like a way to declaring data types (which chatGPT taught me) and ChatGPT then proceeded to give me the results I was after.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/U6yYqYl"  ><a href="//imgur.com/a/U6yYqYl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Alt text](https://imgur.com/a/U6yYqYl "a title")
+
 Once I had created this model in my project, I then asked the simple question, what’s next?
 
 !(image)[https://imgur.com/a/Un3zEbb]
