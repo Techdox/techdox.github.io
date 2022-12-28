@@ -1,6 +1,6 @@
 ---
 title: "Learning to Code With ChatGPT"
-date: 2022-12-29T11:18:50+12:00
+date: 2022-12-28T11:18:50+12:00
 draft: false
 description: "Creating a Django Website with ChatGPT"
 tags: [programming,automation,python]
