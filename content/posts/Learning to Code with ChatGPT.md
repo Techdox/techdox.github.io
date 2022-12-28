@@ -22,30 +22,30 @@ I am wanting to build a dashboard in Python Django to track american express tra
 
 A model in Django is like a way to declaring data types (which chatGPT taught me) and ChatGPT then proceeded to give me the results I was after.
 
-![Alt text](https://imgur.com/a/U6yYqYl "a title")
+![model]](https://i.imgur.com/7Kzt43K.png)
 
 Once I had created this model in my project, I then asked the simple question, what’s next?
 
-!(image)[https://imgur.com/a/Un3zEbb]
+![next](https://i.imgur.com/DGvLC15.png)
 
 ChatGPT then proceeded to walk me through the steps required and bit by bit my project was being built, but I am also learning while doing so, if I don’t understand why something is done the way it is, I ask and ChatGPT will let me know.
 
 So far it has allowed me to build a platform I was after, below are the results so far.
 
 Homepage
-!(image)[https://imgur.com/a/5IDEbkO]
+![Alt text](https://i.imgur.com/EXQfQ2u.png "a title")
 
 Transactions
-!(image)[https://imgur.com/a/n76KP3k]
+![transaction](https://i.imgur.com/d4T6M1G.png)
 
 Create Transaction
-!(image)[https://imgur.com/a/B3UNuql]
+![create](https://i.imgur.com/vdZqHbM.png)
 
 All of the above code was all created by ChatGPT and I was just the one throwing the ideas at it. Each time I got an idea, like “Hey, can you add a delete button next to each transaction, it would then go off and tell me how to do so.
 
 The best thing was, I didn’t need to search around on Google if I got stuck, I just asked ChatGPT directly, and then I was guided on how to fix it.
 
-!(image)[https://imgur.com/a/5eMsy2C]
+![fix](https://i.imgur.com/NO4Uzj9.png)
 
 This is really awesome and has been a great way for me to learn and jump right into the deep end, instead of reading documentation on documentation before doing anything.
 #blog
