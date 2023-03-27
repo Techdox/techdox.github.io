@@ -11,10 +11,10 @@ params:
   googleAnalytics: "UA-128378050-1"
   env: production
   title: Techdox Blog
-  description: 'Cloud Consultant, Crypto Nerd'
+  description: 'Cloud Consultant, Blogger, Youtuber'
   keywords: [Blog, IT, Crypto]
   author: Nick Wilkinson
-  #DateFormat: "januart 2, 2006"
+  #DateFormat: "january 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -40,7 +40,8 @@ params:
 
   homeInfoParams:
     Title: "Nick Wilkinson"
-    Content: Cloud Consultant For Datacom - Wellington - New Zealand | Tech Tinkerer | Addicted To Coffee
+    Content: Cloud Consultant - Christchurch - New Zealand | Tech Tinkerer 
+| Addicted To Coffee
 
   socialIcons:
     - name: youtube
