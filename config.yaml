@@ -40,8 +40,7 @@ params:
 
   homeInfoParams:
     Title: "Nick Wilkinson"
-    Content: Cloud Consultant - Christchurch - New Zealand | Tech Tinkerer 
-| Addicted To Coffee
+    Content: Cloud Consultant - Christchurch - New Zealand | Tech Tinkerer | Addicted To Coffee
 
   socialIcons:
     - name: youtube
